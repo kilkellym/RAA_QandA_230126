@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA_QandA_230126</Text>
+    <Description>Some description for RAA_QandA_230126</Description>
+    <Assembly>RAA_QandA_230126.dll</Assembly>
+    <FullClassName>RAA_QandA_230126.Command</FullClassName>
+    <ClientId>f9ecbdc4-55ae-4a11-bfd8-edc140073478</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA_QandA_230126</Name>
+    <Assembly>RAA_QandA_230126.dll</Assembly>
+    <FullClassName>RAA_QandA_230126.App</FullClassName>
+    <ClientId>d0c620d0-da26-4108-ab6f-d0d3ef723628</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
